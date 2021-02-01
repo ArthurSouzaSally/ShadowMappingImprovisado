@@ -4,7 +4,6 @@ from OpenGL.GL.shaders import *
 import glfw, pyrr, math, ctypes, random
 import numpy as np
 from PIL import Image
-from time import sleep
 
 glfw.init()
 
